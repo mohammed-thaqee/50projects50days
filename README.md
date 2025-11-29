@@ -86,4 +86,4 @@ all copies or substantial portions of the Software.
 
 🚀 In short: Use it, but don’t blame us! 😃
 
-Sample changes
+Conflicting changes

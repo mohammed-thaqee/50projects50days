@@ -86,4 +86,4 @@ all copies or substantial portions of the Software.
 
 🚀 In short: Use it, but don’t blame us! 😃
 
-Sample changes
+Project 01 - Expanding Cards to Project 01 - Fixed typo on line 1
